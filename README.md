@@ -15,10 +15,12 @@ const shreya = {
   tools: [Hadoop, Anaconda, RStudio],
   architecture: ["event-driven", "design system pattern", "organization"],
   internships: {
-                        influencer: "Unschool",
-                        intern: "The Sparks Foundation",
-                        intern: "Super AI"
-               },
+                        community_influencer: "Unschool",
+                        data_science_and_business_analytics_intern: "The Sparks Foundation",
+                        summer_intern: "Super AI",
+                        social_media_marketing_intern: "Orosil Smiths India Ltd.",
+                        digital_marketing_intern: "QK Digital Marketing"
+},
  challenge: "I am trying to improve my coding skills and upgrade my CGPA"
 }
 ```
