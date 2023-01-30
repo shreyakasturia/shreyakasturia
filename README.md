@@ -11,17 +11,17 @@
 ```javascript
 const shreya = {
   pronouns: "she" | "her",
-  code: [C, CPP, OOPS, DBMS, Python, Java, R],
+  code: [C, CPP, OOPS, DBMS, Python, Java, R, ReactJS],
   tools: [Hadoop, Anaconda, RStudio],
   architecture: ["event-driven", "design system pattern", "organization"],
   internships: {
                         community_influencer: "Unschool",
                         data_science_and_business_analytics_intern: "The Sparks Foundation",
-                        summer_intern: "Super AI",
-                        social_media_marketing_intern: "Orosil Smiths India Ltd.",
-                        digital_marketing_intern: "QK Digital Marketing"
+                        frontend_developer_summer_intern: "Super AI",
+                        ux_lead: "Dwarka Physician Forum"
+                        
 },
- challenge: "I am trying to improve my coding skills and upgrade my CGPA"
+ challenge: "I am trying to improve my technical and analytical skills"
 }
 ```
 
