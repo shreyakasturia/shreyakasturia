@@ -11,17 +11,17 @@
 ```javascript
 const shreya = {
   pronouns: "she" | "her",
-  code: [C, CPP, OOPS, DBMS, Python, Java, R, ReactJS],
-  tools: [Hadoop, Anaconda, RStudio],
+  code: [C, CPP, OOPS, DBMS, Python, Java, R, ReactJS, HTML, CSS],
+  tools: [Hadoop, Anaconda, RStudio, Tableau, Power BI, Microsoft Office, VS Code],
   architecture: ["event-driven", "design system pattern", "organization"],
   internships: {
-                        community_influencer: "Unschool",
-                        data_science_and_business_analytics_intern: "The Sparks Foundation",
-                        frontend_developer_summer_intern: "Super AI",
-                        ux_lead: "Dwarka Physician Forum"
+                        Product_Manager : "Dwarka Physician Forum",
+                        Data_Analyst_Intern: "Super AI Polaris Pvt. Ltd.",
+                        Data_Science_and_Business_Analytics_Intern: "The Sparks Foundation",
+                        Marketing_Analytics_Intern: "Q. K. Digital Marketing"
                         
 },
- challenge: "I am trying to improve my technical and analytical skills"
+ challenge: "In a challenging customer churn analysis project for a	 company, I successfully tackled issues arising from a large volume of customer data with inconsistencies and missing values. Employing data wrangling techniques, exploratory data analysis, and statistical modeling, I identified key factors driving churn, including contract type, customer tenure, and service usage patterns. By developing a predictive model and implementing targeted retention strategies, the company achieved a significant 25% reduction in customer churn."
 }
 ```
 
