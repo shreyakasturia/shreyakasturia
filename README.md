@@ -21,7 +21,7 @@ const shreya = {
                         Marketing_Analytics_Intern: "Q. K. Digital Marketing"
                         
 },
- challenge: "In a challenging customer churn analysis project for a	 company, I successfully tackled issues arising from a large volume of customer data with inconsistencies and missing values. Employing data wrangling techniques, exploratory data analysis, and statistical modeling, I identified key factors driving churn, including contract type, customer tenure, and service usage patterns. By developing a predictive model and implementing targeted retention strategies, the company achieved a significant 25% reduction in customer churn."
+ challenge: "Growth-Oriented Individual Embracing Continuous Learning and Skill Enhancement"
 }
 ```
 
