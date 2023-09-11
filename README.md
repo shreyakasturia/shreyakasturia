@@ -11,17 +11,16 @@
 ```javascript
 const shreya = {
   pronouns: "she" | "her",
-  code: [C, CPP, OOPS, DBMS, Python, Java, R, ReactJS, HTML, CSS],
-  tools: [Hadoop, Anaconda, RStudio, Tableau, Power BI, Microsoft Office, VS Code],
-  architecture: ["event-driven", "design system pattern", "organization"],
+  Languages: [Python, R Programming, C, C++, Java, SQL, HTML/JS, Golang, Erlang],
+  Data Engineering: [Apache Spark, MySQL, SQLite Studio, Pandas/Numpy, TensorFlow, NLP, Scikit-Learn, PySpark],
+  Platforms/Frameworks: [Databricks, Google Cloud, Power BI, Tableau, Git, Visual Studio, Jupyter Notebook, Apache Kafka, Scrum, MS Office],
   internships: {
-                        Product_Manager : "Dwarka Physician Forum",
-                        Data_Analyst_Intern: "Super AI Polaris Pvt. Ltd.",
-                        Data_Science_and_Business_Analytics_Intern: "The Sparks Foundation",
-                        Marketing_Analytics_Intern: "Q. K. Digital Marketing"
+                        CRM/Marketing Data Analyst Intern : "Marrina Decisions",
+                        Business Intelligence Intern: "Dwarka Physician Forum",
+                        Data Analyst Intern: "Super AI Polaris Pvt. Ltd."
                         
 },
- challenge: "Growth-Oriented Individual Embracing Continuous Learning and Skill Enhancement"
+ challenge: "In today's data-driven world, I'm not just a budding Data Scientist; I aspire to become a data detective with a unique blend of analytical skills and storytelling instinct."
 }
 ```
 
