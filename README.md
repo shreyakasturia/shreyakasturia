@@ -11,9 +11,9 @@
 ```javascript
 const shreya = {
   pronouns: "she" | "her",
-  Languages: [Python, R Programming, C, C++, Java, SQL, HTML/JS, Golang, Erlang],
-  Data Engineering: [Apache Spark, MySQL, SQLite Studio, Pandas/Numpy, TensorFlow, NLP, Scikit-Learn, PySpark],
-  Platforms/Frameworks: [Databricks, Google Cloud, Power BI, Tableau, Git, Visual Studio, Jupyter Notebook, Apache Kafka, Scrum, MS Office],
+  Languages: [Python, R Programming, Go, Java, C/C++, SQL (PostgreSQL, MySQL), JavaScript, HTML/CSS],
+  Frameworks: [Tensorflow, PyTorch, Pandas, Scikit-Learn, Numpy, ReactJS, Kafka, MLOps, Spark],
+  Developer Tools: [MS Office, Tableau, Power BI, Databricks, Salesforce, Git, GCP, Jupyter Notebook, BigQuery],
   internships: {
                         CRM/Marketing Data Analyst Intern : "Marrina Decisions",
                         Business Intelligence Intern: "Dwarka Physician Forum",
