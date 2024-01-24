@@ -17,7 +17,7 @@ const shreya = {
   internships: {
                         CRM/Marketing Data Analyst Intern : "Marrina Decisions",
                         Business Intelligence Intern: "Dwarka Physician Forum",
-                        Data Analyst Intern: "Super AI Polaris Pvt. Ltd."
+                        Data Analyst: "Super AI Polaris Pvt. Ltd."
                         
 },
  challenge: "In today's data-driven world, I'm not just a budding Data Scientist; I aspire to become a data detective with a unique blend of analytical skills and storytelling instinct."
