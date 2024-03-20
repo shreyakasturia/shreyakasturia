@@ -14,7 +14,7 @@ const shreya = {
   Languages: [Python, R Programming, Go, Java, C/C++, SQL (PostgreSQL, MySQL), JavaScript, HTML/CSS],
   Frameworks: [Tensorflow, PyTorch, Pandas, Scikit-Learn, Numpy, ReactJS, Kafka, MLOps, Spark],
   Developer Tools: [MS Office, Tableau, Power BI, Databricks, Salesforce, Git, GCP, Jupyter Notebook, BigQuery],
-  internships: {
+  experience: {
                         CRM/Marketing Data Analyst Intern : "Marrina Decisions",
                         Business Intelligence Intern: "Dwarka Physician Forum",
                         Data Analyst: "Super AI Polaris Pvt. Ltd."
